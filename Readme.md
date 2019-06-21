@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Site/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Site/Default.aspx.vb))
 <!-- default file list end -->
 # How to use the ASPxPopupControl's ShowPageScrollbarWhenModal and AutoUpdatePosition properties to control the modal popup window's behavior and position
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1080/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates the following capabilities of the ASPxPopupControl when its popup window is used in modal mode:<br />
